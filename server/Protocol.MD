@@ -1,4 +1,4 @@
-#Protocol
+# Protocol
 If magicode is false or a packet timestamp is before a precedent packet timestamp then ignore packet
 
 
@@ -63,7 +63,7 @@ string username
 int group_id
 ```
 
-##Client to server
+## Client to server
 
 AccountCreate: ->
 ```
@@ -312,13 +312,13 @@ void *data
 int length
 ```
 
-##ClientToClient
+## ClientToClient
 
 SendAudio = struct SoundPacket audio
 
-##Utils
+## Utils
 
-###Client to server
+### Client to server
 
 | Code        | Description |
 |:------------:|:---------------:|
@@ -375,14 +375,14 @@ SendAudio = struct SoundPacket audio
 | 40 | SendHistoryMsg |
 | 60 | PluginMsg |
 
-###ClientToClient
+### ClientToClient
 
 | Code        | Description |
 |:------------:|:---------------:|
 | 0 | SendAudio |
 | 1 | SendVideo |
 
-###Error code:
+### Error code:
 
 | Code        | Description |
 |:------------:|:---------------:|
