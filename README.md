@@ -6,11 +6,10 @@ This project was done in order to re create a skype in two weeks, and written in
 
 **My job in this project was to build the server architecture and its smooth operations**
 
-## Teammates: 
 ### Server Side
 dimitri1.wyzlic@epitech.eu
 
-[Loïc Lopez](https://github.com/loic-lopez)
+[Loïc Lopez (me)](https://github.com/loic-lopez)
 
 
 ### Client Side
