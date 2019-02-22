@@ -1,0 +1,5 @@
+message("Adding Libs:")
+message("---Portaudio")
+add_subdirectory(portaudio)
+message("---Opus")
+add_subdirectory(opus)

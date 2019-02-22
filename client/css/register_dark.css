@@ -1,0 +1,58 @@
+QWidget {
+    background-color: #2F3136;
+    color: #f3f3f4;
+}
+
+QLineEdit
+{
+    border: 1px solid cornflowerblue;
+    border-radius: 5px;
+}
+
+QPushButton
+{
+    border: 1px solid cornflowerblue;
+    border-radius: 5px;
+}
+
+QPushButton:hover
+{
+    background-color: #202126;
+}
+
+#call_picture
+{
+    background-image: url('../css/img/call.png');
+    border: 1px solid cornflowerblue;
+    border-radius: 5px;
+}
+
+#accept_call
+{
+    background-image: url('../css/img/accept_call.png');
+    border: 1px solid cornflowerblue;
+    border-radius: 5px;
+}
+
+#deny_call
+{
+    background-image: url('../css/img/deny_call.png');
+    border: 1px solid cornflowerblue;
+    border-radius: 5px;
+}
+
+#mute_button
+{
+    background-image: url('../css/img/mute.png');
+}
+
+#stop_call
+{
+    background-image: url('../css/img/stopCall.png');
+
+}
+
+#error_picture
+{
+    background-image: url('../css/img/error.png');
+}

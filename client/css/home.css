@@ -1,0 +1,29 @@
+QWidget {
+    background-color: #2F3136;
+    color: #f3f3f4;
+}
+
+QLineEdit
+{
+    border: 1px solid cornflowerblue;
+    border-radius: 5px;
+    background-color: #3F4146;
+}
+
+QTextEdit
+{
+    border: 1px solid cornflowerblue;
+    border-radius: 5px;
+    background-color: #3F4146;
+}
+
+QPushButton
+{
+    border: 1px solid cornflowerblue;
+    border-radius: 5px;
+}
+
+QPushButton:hover
+{
+    background-color: #202126;
+}
