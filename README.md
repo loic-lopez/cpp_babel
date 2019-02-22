@@ -16,3 +16,5 @@ dimitri1.wyzlic@epitech.eu
 [Yassir Jabbari](https://github.com/frenchqwerty)
 
 [Pierre Piazza](https://github.com/pierre-piazza)
+
+[Stanislas Deneubourg](https://github.com/Zakelis/)
